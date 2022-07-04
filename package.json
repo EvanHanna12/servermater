@@ -4,7 +4,8 @@
   "description": "Join4Join by Alex.",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "engines": { "node": "12.x" }
   },
   "author": "Alex.",
   "license": "ISC",
